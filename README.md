@@ -1,6 +1,6 @@
 # 🎯 HCMUS Object Detection Application
 
-Dự án này là Đồ án môn học của sinh viên trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (HCMUS). 
+Đồ án cuối kỳ môn Học thống kê, trường Đại học Khoa học Tự nhiên, ĐHQG-HCM (HCMUS). 
 
 ## 👥 Thành viên thực hiện
 * **Nguyễn Trung Dũng** - MSSV: 21120228
