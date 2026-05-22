@@ -30,7 +30,9 @@ Dự án được tổ chức theo cấu trúc sau để phân tách rõ ràng g
 
 ```text
 HCMUS_Object_Detection_Application/
-├── Data                        # Thư mục chứa các bộ dữ liệu, xem file link data.txt để tải về, bỏ các thư mục vào thư mục Data là ổn
+├── Data                        # Thư mục chứa các bộ dữ liệu, xem file link data.txt để tải về phần còn lại, giải nén, merge các thư mục với thư mục Data từ repo là ổn
+|   ├── vindr_data                  # Bộ dữ liệu VinDr
+|   ├── yolo_dataset                # Bộ dữ liệu CheXpert
 |   ├── FasterRCNN_Runs/            # Thư mục chứa kết quả đánh giá và biểu đồ của Faster R-CNN
 |   ├── Transformer_Runs/           # Thư mục chứa kết quả đánh giá và biểu đồ của Transformer
 |   └── YOLO_Runs/                  # Thư mục chứa kết quả đánh giá và biểu đồ của YOLO
