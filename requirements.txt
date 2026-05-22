@@ -1,0 +1,18 @@
+# Các thư viện cần thiết cho Streamlit Web App nhận diện bệnh lý X-quang
+# Tương thích với Python >= 3.10
+
+# UI framework
+streamlit>=1.32.0
+
+# Computer vision và xử lý ảnh
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Deep learning - bản CPU đủ chạy demo; nếu có CUDA hãy cài torch khớp version GPU
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Model wrapper cho YOLOv8 + RT-DETR
+ultralytics>=8.1.0

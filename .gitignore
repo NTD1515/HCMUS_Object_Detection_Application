@@ -1,0 +1,8 @@
+kaggle.json
+Data/vindr_data/
+Data/yolo_dataset/
+*.pt
+*.pth
+*.zip
+__pycache__/
+.ipynb_checkpoints/
